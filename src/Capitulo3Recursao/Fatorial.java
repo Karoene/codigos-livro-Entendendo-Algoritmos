@@ -1,6 +1,7 @@
-/* ALGORITMO RECURSIVO  - CALCULO DE FATORIAL
+/* ALGORITMO RECURSIVO - CALCULO DE FATORIAL
 Recursão é quando uma função chama a si mesma para resolver um problema menor até
 chegar em um caso base, onde ela para de se chamar.
+
  */
 package Capitulo3Recursao;
 public class Fatorial {

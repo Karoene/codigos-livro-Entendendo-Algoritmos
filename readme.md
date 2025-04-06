@@ -14,7 +14,11 @@ O(n) significa que voce precisa passar por todos os elementos da lista uma vez.
 - Ordenação por Seleção (Selection Sort)
   - O(n2) ou O(n x n)
 - Recursão
-  - O()
+  - a depender do algoritmo
+- Quicksort
+  - O (n Log n)
+- Tabelas Hash
+  - caso médio O(1) - pior caso O(n)
 
 
 Autora: Karoene Mendonça
