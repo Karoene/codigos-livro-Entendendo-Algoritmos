@@ -11,8 +11,10 @@ O(n) significa que voce precisa passar por todos os elementos da lista uma vez.
   - O(n)
 - Pesquisa Binária 
   - O(Log n)
-- Ordenação por Seleção
+- Ordenação por Seleção (Selection Sort)
   - O(n2) ou O(n x n)
+- Recursão
+  - O()
 
 
 Autora: Karoene Mendonça
